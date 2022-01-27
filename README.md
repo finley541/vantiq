@@ -57,4 +57,4 @@ Open a issue on the GitHub repo.
 
 # License
 
-This project is licensed under the CC BY license.
+This project is licensed under the CC BY Attribution 4.0 International license.
