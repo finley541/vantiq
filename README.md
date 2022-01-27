@@ -58,3 +58,7 @@ Open a issue on the GitHub repo.
 # License
 
 This project is licensed under the CC BY Attribution 4.0 International license.
+
+# Copyright
+
+Code ©️ Copyright 2022 finley541. Code licensed under the CC BY Attribution 4.0 International license.
