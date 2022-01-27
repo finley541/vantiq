@@ -55,4 +55,6 @@ https://youtu.be/BPqJIl34gm8 http://www.youtube.com/watch?v=pf-8KA8td88
 
 Open a issue on the GitHub repo.
 
-# L
+# License
+
+This project is licensed under the CC BY license.
