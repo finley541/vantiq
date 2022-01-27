@@ -53,4 +53,6 @@ https://youtu.be/BPqJIl34gm8 http://www.youtube.com/watch?v=pf-8KA8td88
 
 # Report a Bug or Ask for Help
 
-Open a ticket on the GitHub repo.
+Open a issue on the GitHub repo.
+
+# L
